@@ -1,0 +1,15 @@
+{
+	"name": "font2pbf",
+	"version": "1.0.0",
+	"from": "https://dogeo.fr/utiliser-ses-propres-polices-dans-mapbox-gl/",
+	"description": "",
+	"repository": "",
+	"license": "",
+	"scripts": {
+		"build-glyphs": "build-glyphs",
+		"build": "./build.sh"
+	},
+	"dependencies": {
+		"fontnik": "^0.5.1"
+	}
+}
